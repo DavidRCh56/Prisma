@@ -1,4 +1,4 @@
-# FinanzasPro: Gestor Financiero Personal
+# Prisma: Gestor Financiero Personal
 
 Una aplicación Full-Stack diseñada para el control exhaustivo de finanzas personales. Permite la gestión de presupuestos mensuales, seguimiento de gastos recurrentes y visualización de datos anuales mediante una interfaz moderna y reactiva.
 
